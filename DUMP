@@ -15,8 +15,8 @@ os.system("chmod 777 *")
  
 if '64' in bit:
     os.system("clear")
-    #print("\n\n\n\n !-! Trail Expired....! ")
-    import make
+    print("\n\n\n\n !-! Trail Expired....! ")
+    #import make
 else:
     os.system("clear")
     print("TOOL NOT AVAILABLE FOR 32 BIT DEVICE")
